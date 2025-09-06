@@ -9,6 +9,7 @@ langchain_google_genai
 colorama
 
 google-genai
+google-adk
 
 openai
 
